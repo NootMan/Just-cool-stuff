@@ -1,0 +1,6 @@
+c:\users\tristian\documents\visual studio 2017\Projects\InteractiveQuestions\InteractiveQuestions\bin\Debug\InteractiveQuestions.exe.config
+c:\users\tristian\documents\visual studio 2017\Projects\InteractiveQuestions\InteractiveQuestions\bin\Debug\InteractiveQuestions.exe
+c:\users\tristian\documents\visual studio 2017\Projects\InteractiveQuestions\InteractiveQuestions\bin\Debug\InteractiveQuestions.pdb
+c:\users\tristian\documents\visual studio 2017\Projects\InteractiveQuestions\InteractiveQuestions\obj\Debug\InteractiveQuestions.csprojResolveAssemblyReference.cache
+c:\users\tristian\documents\visual studio 2017\Projects\InteractiveQuestions\InteractiveQuestions\obj\Debug\InteractiveQuestions.exe
+c:\users\tristian\documents\visual studio 2017\Projects\InteractiveQuestions\InteractiveQuestions\obj\Debug\InteractiveQuestions.pdb
